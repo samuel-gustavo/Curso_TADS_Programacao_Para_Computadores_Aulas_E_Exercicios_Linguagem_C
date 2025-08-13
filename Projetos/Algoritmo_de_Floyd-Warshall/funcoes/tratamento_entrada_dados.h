@@ -1,0 +1,6 @@
+#ifndef FUNCOES_TRATAMENTO_ENTRADA_DADOS
+#define FUNCOES_TRATAMENTO_ENTRADA_DADOS
+
+void limparBufferSistema();
+
+#endif
